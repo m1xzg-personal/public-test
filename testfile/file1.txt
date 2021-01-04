@@ -1,1 +1,3 @@
 # Test file
+
+KEY=c55e599879c9ed1963c77c81074018b82eb2dbe1
